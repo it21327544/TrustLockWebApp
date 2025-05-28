@@ -82,7 +82,7 @@ export default function Home() {
                 <Button
                   variant="outline"
                   size="3"
-                  onClick={() => window.open('https://www.youtube.com/watch?v=Tw6D2YrVoFU', '_blank')}
+                  onClick={() => window.open('https://youtu.be/UTNOs5SEGlM?si=ybDNX8mM3rezi9ZP', '_blank')}
                   className="border-2 border-gray-300 text-gray-700 hover:bg-gray-50 px-8 py-4 text-lg font-semibold rounded-xl transition-all duration-300 cursor-pointer"
                 >
                   Watch Demo
